@@ -1,2 +1,3 @@
 Content...
 changes with my favourite editor
+causing a conflict via git-bash
